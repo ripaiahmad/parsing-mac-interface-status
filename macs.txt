@@ -1,0 +1,18 @@
+['Mac Address Table
+------------------------------------------------------------------
+
+Vlan    Mac Address       Type        Ports      Moves   Last Move
+----    -----------       ----        -----      -----   ---------
+ 100    0080.7790.0a8c    DYNAMIC     Et1        1       0:30:53 ago
+ 300    000c.29b5.8278    STATIC      Et12
+ 300    0004.FE11.2238    STATIC      Et10
+ 300    0004.FE11.2240    STATIC      Et6
+ 200    0080.7790.0a8c     DYNAMIC     Et1        1       26 days, 10:24:33 ago
+Total Mac Addresses for this criterion: 5
+
+          Multicast Mac Address Table
+------------------------------------------------------------------
+
+Vlan    Mac Address       Type        Ports
+----    -----------       ----        -----
+Total Mac Addresses for this criterion: 0']
